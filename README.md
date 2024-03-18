@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexgg9" alt="alexgg9" /></a> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular, React**
 
-- 💬 Ask me about **HTML, CSS, Java**
+- 💬 Ask me about **HTML, CSS, Java, JavaScript, TypeScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
