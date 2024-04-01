@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro Gálvez García</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 💬 Ask me about **Angular, Ionic,Java, React**
+- 💬 Ask me about **Angular, Ionic, Java, React**
 
 - 📫 How to reach me **alexgalvezgarciaqt@gmail.com**
 
