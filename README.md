@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro Gálvez García</h1>
 <h3 align="center">A passionate full-stack developer from Córdoba,Spain</h3>
 
-- 💬 Ask me about **Angular,Spring Boot,Ionic,Java**
+- 💬 Ask me about **Angular, Spring Boot, Ionic, Java**
 
 - 📫 How to reach me **alexgalvezgarciaqt@gmail.com**
 
