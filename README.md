@@ -1,5 +1,14 @@
 <h2 align="left">Hi 👋! My name is Alejandro Gálvez García and I'm a Full Stack Developer from Spain.</h2>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexgg9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexgg9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJicGkxNmtnMmY0Y3I4dzA1NmsxeGUwdHJ1eWxsdGw1NXk4ZHRsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ###
@@ -34,7 +43,8 @@
 
 ###
 
-<div aling="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexgg9&show_icons=true&locale=en&layout=compact" alt="alexgg9" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexgg9&show_icons=true&locale=en" alt="alexgg9" /></p>
-</div>
+<br clear="both">
+
+![Snake animation](https://github.com/alexgg9/alexgg9/blob/output/snake.svg)
+
+###
