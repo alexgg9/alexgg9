@@ -45,6 +45,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/alexgg9/alexgg9/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
+  <img src="dist/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</picture>
 
 ###
