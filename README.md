@@ -9,13 +9,6 @@ Hi there 👋! I'm Alejandro Gálvez García, a Full-Stack Developer from Spain 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexgg9&show_icons=true&count_private=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgg9&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<br />
-
-<div align="center">
   <img align="center" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJicGkxNmtnMmY0Y3I4dzA1NmsxeGUwdHJ1eWxsdGw1NXk4ZHRsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 
@@ -48,6 +41,15 @@ Hi there 👋! I'm Alejandro Gálvez García, a Full-Stack Developer from Spain 
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexgg9&show_icons=true&count_private=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgg9&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<br />
 
 <br clear="both" />
 
