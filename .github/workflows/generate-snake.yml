@@ -41,7 +41,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }} # or replace with your personal access token secret name
+          github_token: ${{ secrets.GH_TOKEN }}  # Cambia 'GH_TOKEN' por el nombre de tu secreto
           branch: master
           force: true
 
