@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgg9&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" />
 </div>
 
-<img align="right" margin-right="50px" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJicGkxNmtnMmY0Y3I4dzA1NmsxeGUwdHJ1eWxsdGw1NXk4ZHRsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJicGkxNmtnMmY0Y3I4dzA1NmsxeGUwdHJ1eWxsdGw1NXk4ZHRsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo" />
