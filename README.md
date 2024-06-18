@@ -1,3 +1,5 @@
+<div align="center">
+
 ### Full-Stack Developer | 💻 Angular | ☕ Java | 🚀 Spring Boot | 📱 Ionic
 
 Hi there 👋! I'm Alejandro Gálvez García, a Full-Stack Developer from Spain passionate about crafting innovative solutions. My expertise spans across various technologies including:
@@ -6,6 +8,8 @@ Hi there 👋! I'm Alejandro Gálvez García, a Full-Stack Developer from Spain 
 - **☕ Java**: Object-oriented programming and scalable backend development.
 - **🚀 Spring Boot**: Building RESTful APIs and enterprise applications.
 - **📱 Ionic**: Creating hybrid mobile applications with compelling user interfaces.
+
+</div>
 
 <br />
 
