@@ -33,3 +33,8 @@
 </div>
 
 ###
+
+<div aling="center">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexgg9&show_icons=true&locale=en&layout=compact" alt="alexgg9" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexgg9&show_icons=true&locale=en" alt="alexgg9" /></p>
+</div>
